@@ -25,6 +25,8 @@ Instructions for building:
 
 1) Download QtCreator from the official website at the link (preferably the latest version)
 
+https://www.qt.io/
+
 2) Clone to your folder the contents of the folder code:
 
  `git init`
