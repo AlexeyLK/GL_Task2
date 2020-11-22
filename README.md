@@ -31,7 +31,7 @@ Instructions for building:
 
  `git clone https://github.com/AlexeyLK/GL_Task2/..........`
 
-3) Open this fokder as project in QtCreator
+3) Open this folder as project in QtCreator
 
 4) Press start in the left bottom corner: startProject.png
 
