@@ -25,11 +25,11 @@ Instructions for building:
 
 1) Download QtCreator from the official website at the link (preferably the latest version)
 
-2) Clone to your folder the contents of the folder code:\
+2) Clone to your folder the contents of the folder code:
 
  `git init`
 
- `git clone https://github.com/AlexeyLK/GL_Task2/..........`
+ `git clone https://github.com/AlexeyLK/GL_Task2/tree/main/TODOManager.git`
 
 3) Open this folder as project in QtCreator
 
