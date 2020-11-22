@@ -40,7 +40,7 @@ Description of all application features:
 - user can clear history using "clear" button in the upper right corner of the history window(be careful with this button, data cannot be restored after deletion)
 
 All these buttons can be viewed at the link
-https://github.com/AlexeyLK/GL/tree/master/task2/Images
+https://github.com/AlexeyLK/GL_Task2/tree/main/Images
 
 - for the convenience of using the program, the system time is available in the upper right corner
 
