@@ -33,7 +33,7 @@ Instructions for building:
 
 3) Open this fokder as project in QtCreator
 
-4) Press sta in the left bottom corner: startProject.png
+4) Press start in the left bottom corner: startProject.png
 
 https://github.com/AlexeyLK/GL_Task2/tree/main/Images
 
