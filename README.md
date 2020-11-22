@@ -22,11 +22,20 @@ Application should:
     
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Instructions for building:
-...
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Detailed description for all features:
-...
+1) Download QtCreator from the official website at the link (preferably the latest version)
+
+2) Clone to your folder the contents of the folder code:\
+
+ `git init`
+
+ `git clone https://github.com/AlexeyLK/GL_Task2/..........`
+
+3) Open this fokder as project in QtCreator
+
+4) Press sta in the left bottom corner: startProject.png
+
+https://github.com/AlexeyLK/GL_Task2/tree/main/Images
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Description of all application features:
@@ -39,8 +48,13 @@ Description of all application features:
 - user can return to main window  using "back" button in the upper left corner of the history window
 - user can clear history using "clear" button in the upper right corner of the history window(be careful with this button, data cannot be restored after deletion)
 
-All these buttons can be viewed at the link
+All these buttons can be viewed at the link:
 https://github.com/AlexeyLK/GL_Task2/tree/main/Images
 
 - for the convenience of using the program, the system time is available in the upper right corner
 
+- time for the task will be updated every hour
+
+- screenshots of the program can be viewed at the link:
+
+https://github.com/AlexeyLK/GL_Task2/tree/main/Screenshots
