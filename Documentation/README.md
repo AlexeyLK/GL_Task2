@@ -77,6 +77,8 @@ These 2 methods could be combined into one(like in UML), but this is more visual
  `std::vector<Task> getHTasks()` -  for display
  
  `void RemoveTask(Task task)` - for display
+  
+ `void delByTime()` - dekete time by time with status 0(unfulfilled)
 
   ----------------------------------------------------------------------------------------------------------------------------
 in file mainwindow.h:
