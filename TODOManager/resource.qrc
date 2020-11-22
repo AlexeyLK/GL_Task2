@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>back.png</file>
+        <file>nok.png</file>
+        <file>ok.png</file>
+    </qresource>
+</RCC>
